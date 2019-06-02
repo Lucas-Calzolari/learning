@@ -1,0 +1,2 @@
+### Binary perceptron
+This is my first snippet of code related to machine learning or SciPy, so it is as simple perceptron to divide flowers ins two classes. It is not organized as project or in modules yet.
